@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/6826.jpg width="40" height="40")
+![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20230415/pngtree-website-blue-smoke-texture-background-image_2345072.jpg)
 
 <!-- (https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg) -->
 
