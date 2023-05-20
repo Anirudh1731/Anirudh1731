@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/id/1147491855/photo/dream-deep-space-travel-background.jpg?b=1&s=170667a&w=0&k=20&c=TQbV4DCrL-pam4GZF_PZAKGNXn313TjxQytIA1x69cY=)
+![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
 <!-- (https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg) -->
 
