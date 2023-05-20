@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/6826.jpg)
+![MasterHead](https://wallpaperaccess.com/full/6826.jpg width="40" height="40")
 
 <!-- (https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg) -->
 
