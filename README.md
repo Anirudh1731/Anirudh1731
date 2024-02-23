@@ -1,32 +1,103 @@
-![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+<img src="bannerimage.jpg">
 
-<!-- (https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg) -->
-
-<h1 align="center">Hi 👋, I'm Anirudh Santhosh</h1>
-<h3 align="center">Machine Learning Developer | Data Scientist | Data Analyst</h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh1731&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh1731" /> </p>
-
-- 📫 How to reach me **anirudhsanthosh1731@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anirudh-santhosh-8a3309209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-santhosh-8a3309209" height="30" width="40" /></a>
-<a href="https://kaggle.com/anirudhsanthosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhsanthosh" height="30" width="40" /></a>
-<a href="https://instagram.com/anirudh_1731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirudh_1731" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ani techie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ani techie" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@anirudhsanthosh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anirudhsanthosh1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anirudh_santhosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudh_santhosh" height="30" width="40" /></a>
+<p align="center">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center"> Hi 👋, I'm Anirudh Santhosh </h1>
+<h3 align="center">🐳 𝐀𝐧 𝐚𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 and Machine Learning Developer🐼</h3>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh1731&show_icons=true&locale=en&layout=compact" alt="anirudh1731" /></p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=32F75F&center=true&random=false&width=438&height=52&lines=Machine+Learning+Developer+;Aspiring+Data+Scientist;AI+Enthusiast" alt="Typing SVG" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudh1731&show_icons=true&locale=en" alt="anirudh1731" /></p>
+👨‍💻 Exploring the world of tech, I'm diving into Generative AI and NLP to craft cool solutions with data.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh1731&" alt="anirudh1731" /></p>
+🌐 As a machine learning enthusiast, I love learning new tech and adapting to changes for my journey to become a Data Scientist.
+
+📱 With flexibility and a knack for learning, I'm navigating through the tech scene, soaking in new tools and methods along the way.
+
+🦜 Thriving in team environments, I enjoy hackathons and projects where ideas flow and innovation happens.
+
+📖 Every line of code tells a story, and I'm on a mission to create tales of innovation and change.
+
+😜 Quick tip: In tech, every bug is a chance to learn, and every challenge is an opportunity for growth!
+
+<br>
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=Anirudh1731&style=flat-square&color=00FF00">
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirudh1731&theme=chartreuse_dark"  display=block width=100% height=auto  alt="1" >
+</div>
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+## 📊 GitHub Activity
+| ![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh1731&theme=chartreuse-dark&show_icons=true) | [![Anirudh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anirudh1731&theme=chartreuse-dark&hide_border=true&card_width=500)](https://git.io/streak-stats)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirudh1731&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anirudh1731&theme=chartreuse_dark&utcOffset=8) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirudh1731&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirudh1731&theme=chartreuse_dark)
+
+![Anirudh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anirudh1731&theme=chartreuse-dark)
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Trophy:</h3>
+
+<div align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></div>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anirudh1731&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anirudh1731&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+# Tech Stacks 
+
+|               |           |
+|       ---     |    ---    |
+|**Programming Languages**| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)  |
+| **Data Analytics** | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) |
+| **ML/DL** | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)|
+| **Design** | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)   |
+| **Competetive coding** | ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)  ![CodeChef](https://img.shields.io/badge/Codechef-00CCBB7.svg?&style=for-the-badge&logo=Codechef&logoColor=white)   ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) |
+| **IDEs/Editors** | <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/> <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) |
+
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+### <img src="290-2900380_contact-me-lets-connect-logo.png" style="width:500px" align = "center">
+<p align="left" align='right'>
+<a target="_blank"href="mailto: anirudhsanthosh1729@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank"href="https://www.linkedin.com/in/anirudh-santhosh-8a3309209/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank"href="https://www.instagram.com/anirudh_1731/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
+
+<br>
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Anirudh1731&data=followers,repositories,stars,commits&theme=metropolis"
+</p>
 
